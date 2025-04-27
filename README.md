@@ -1,5 +1,7 @@
 This repository contains extractors for some VHX (Vimeo Embed) based websites, based on the original dropout extractor used in yt-dlp
 
+Note: This extractor doesn't support DRM Decryption, which is present in some earlier WOWPP videos
+
 See [yt-dlp plugins](https://github.com/yt-dlp/yt-dlp#plugins) for more details.
 
 
