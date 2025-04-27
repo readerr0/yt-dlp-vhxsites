@@ -1,8 +1,8 @@
 import functools
 
-from .common import InfoExtractor
-from .vimeo import VHXEmbedIE
-from ..utils import (
+from yt_dlp.extractor.common import InfoExtractor
+from yt_dlp.extractor.vimeo import VHXEmbedIE
+from yt_dlp.utils import (
     ExtractorError,
     OnDemandPagedList,
     clean_html,
